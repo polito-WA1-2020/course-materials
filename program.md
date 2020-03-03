@@ -1,6 +1,6 @@
 # Web Applications I (01TXYOV) - year 2019/2020
 
-Instructors: Fulvio Corno `@fulcorno`, Alberto Monge Roffarello `@alberto-mr`, Antonio Servetti
+Instructors: Fulvio Corno `@fulcorno`, Alberto Monge Roffarello `@alberto-mr`, Luigi De Russis `@luigidr`
 
 ## Course description
 
@@ -15,7 +15,6 @@ The topics presentation will enable the student to gain the basic skill to manag
 - Basic knowledge of a framework for creating web applications in Javascript
 - Ability to create complete web applications, also in the “single page application” modality, by using a simple back-end server.
 - Knowledge of the main issues regarding robustness, security, interoperability, usability and performance of the studied applications, and their applicable best practices.
-
 
 ## Prerequisites
 
@@ -42,20 +41,17 @@ The topics presentation will enable the student to gain the basic skill to manag
 In addition to classes, that include both lectures and exercises in classroom (4 credits), the course includes laboratory exercises (2 credits) on the application of the presented techniques.
 The laboratories will consist in the application of the techniques learnt during the classes, by incrementally building a web application of increasing complexity. During the labs the students will discuss with the teachers on their solutions to the assigned exercises. The lab material will be managed through a Git-based platform.
 
+## Lecture slides
+
+* [Introduction to the course](./slide/00-Intro-2020-Corno.pdf)
+
 ## Reading materials
 
-The teacher will provide the material (copy of slides and links to on-line resources) on the website of the course.
+The teachers will provide the material (copy of slides and links to on-line resources) on the website of the course: <http://bit.ly/polito-wa1>
+
 Many useful resources are also freely available on the web (<https://developer.mozilla.org>, <https://reactjs.org/>, <https://javascript.info/>, etc).
 
 Some suggested textbooks for personal in-depth study:
 
 - M. Haverbeke, Eloquent Javascript (<https://eloquentjavascript.net/>)
 - A. Accomazzo, A. Lerner, N. Murray, C. Allsopp, D. Guttman, T. McGinnis, Fullstack React, 2019
-
-## Assessment and grading criteria
-
-Exam modality: mandatory oral colloquium to discuss the individual project.
-
-The exam consists in the verification of the above described expected knowledge and practical skills, through a practical test, followed by an oral discussion. The test consists in creating a web application using the knowledge gained in the course.
-For the test, an exercise will be assigned about 3 weeks in advance of each exam date. Only students who submit their solution before the deadline are admitted to the oral test.
-The web application is evaluated by the teacher during the oral session, by verifying the functionality of the web application, the adopted programming techniques, according to a checklist that depends on the test. The detailed knowledge of the submitted source code by the student is also checked, with his ability to discuss the project in light of the course topics.
