@@ -43,7 +43,21 @@ The laboratories will consist in the application of the techniques learnt during
 
 ## Lecture slides
 
+### Introduction
+
 * [Introduction to the course](./slide/00-Intro-2020-Corno.pdf)
+
+### JavaScript
+
+* [Introduction to the Javascript (part 1)](./slide/1-01-javascript-part1.pdf)
+* Introduction to the Javascript (part 2)
+* [JavaScript exercises (part 1)](./slide/1-03-javascript-exercises-part1.pdf)
+
+### Browser
+
+### Applications
+
+### React
 
 ## Reading materials
 
