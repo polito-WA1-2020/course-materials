@@ -55,6 +55,8 @@ The laboratories will consist in the application of the techniques learnt during
 
 ### Browser
 
+* [Web Architecture](./slide/2-01-web-architecture.pdf)
+
 ### Applications
 
 ### React
