@@ -30,3 +30,8 @@ Javascript
 Browsers and web applications
 
 * [Web Architecture](./slide/2-01-web-architecture.pdf)
+
+## Laboratories
+
+* [Lab 1: Getting Started with Node.js](./labs/L01-getting-started-node.pdf)
+* Lab 2
