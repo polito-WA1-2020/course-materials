@@ -50,7 +50,7 @@ The laboratories will consist in the application of the techniques learnt during
 ### JavaScript
 
 * [Introduction to the Javascript (part 1)](./slide/1-01-javascript-part1.pdf)
-* Introduction to the Javascript (part 2)
+* [Introduction to the Javascript (part 2)](./slide/1-02-javascript-part2.pdf)
 * [JavaScript exercises (part 1)](./slide/1-03-javascript-exercises-part1.pdf)
 
 ### Browser
