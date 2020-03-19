@@ -6,11 +6,11 @@ Material for the course of Web Applications I (in English) and Applicazioni Web 
 
 Detailed information about the course is available in the dedicated web pages.
 
-| Resource | Web Applications I | Applicazioni Web I | 
+| Resource | Web Applications I | Applicazioni Web I |
 |---------|---|--------|
-| Course website | http://bit.ly/polito-wa1 | http://media.polito.it/aw1 |
+| Course website | <http://bit.ly/polito-wa1> | <http://media.polito.it/aw1> |
 | YouTube Playlist | [:arrow_forward:](https://www.youtube.com/playlist?list=PLqRTLlwsxDL-e9RexPadqEVaaUgy-Ge8O)|  [:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pMSXjyRc83gBSUqHIkIE564)|
-| GitHub repositories | https://github.com/polito-WA1-2020 | https://github.com/polito-WA1-2020 |
+| GitHub repositories | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> |
 
 ## Syllabus
 
