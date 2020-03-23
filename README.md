@@ -31,6 +31,7 @@ Browsers and web applications
 
 * [Web Architecture](./slide/2-01-web-architecture.pdf)
 * [HTML - a quick introduction](./slide/2-02-html.pdf)
+* [CSS](./slide/2-03-css.pdf)
 
 ## Laboratories
 
