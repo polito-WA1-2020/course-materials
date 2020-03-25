@@ -12,10 +12,6 @@ Detailed information about the course is available in the dedicated web pages.
 | YouTube Playlist | [:arrow_forward:](https://www.youtube.com/playlist?list=PLqRTLlwsxDL-e9RexPadqEVaaUgy-Ge8O)|  [:arrow_forward:](https://www.youtube.com/playlist?list=PLuZyhAOPm9pMSXjyRc83gBSUqHIkIE564)|
 | GitHub repositories | <https://github.com/polito-WA1-2020> | <https://github.com/polito-WA1-2020> |
 
-## Syllabus
-
-* [Course program](./program.md)
-
 ## Slides
 
 * [Introduction to the course (English)](./slide/00-Intro-2020-Corno.pdf)
@@ -36,4 +32,4 @@ Browsers and web applications
 ## Laboratories
 
 * [Lab 1: Getting Started with Node.js](./labs/L01-getting-started-node.pdf)
-* Lab 2
+* [Lab 2: Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
