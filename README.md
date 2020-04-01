@@ -22,6 +22,7 @@ Javascript
 * [Introduction to JavaScript (part 1)](./slide/1-01-javascript-part1.pdf)
 * [Introduction to JavaScript (part 2)](./slide/1-02-javascript-part2.pdf)
 * [JavaScript exercises](./slide/1-03-javascript-exercises-part1.pdf)
+* [Asynchronouos JavaScript programming](./slide/1-04-javascript-part3-async.pdf)
 
 Browsers and web applications
 
