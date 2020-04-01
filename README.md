@@ -35,3 +35,4 @@ Browsers and web applications
 
 * [Lab 1: Getting Started with Node.js](./labs/L01-getting-started-node.pdf)
 * [Lab 2: Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
+* [Lab 3: JavaScript in the Browser](./labs/L03-javascript-browser.pdf)
