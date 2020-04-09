@@ -22,7 +22,10 @@ Javascript
 * [Introduction to JavaScript (part 1)](./slide/1-01-javascript-part1.pdf)
 * [Introduction to JavaScript (part 2)](./slide/1-02-javascript-part2.pdf)
 * [JavaScript exercises](./slide/1-03-javascript-exercises-part1.pdf)
-* [Asynchronouos JavaScript programming](./slide/1-04-javascript-part3-async.pdf)
+* [Asynchronouos JavaScript programming](./slide/1-04-javascript-async.pdf)
+* [Functional Programming in JS](./slide/1-05-javascript-functional.pdf)
+* Prototypes, Classes and Modules
+* [The 'this' keyword](./slide/1-07-javascript-this.pdf)
 
 Browsers and web applications
 
@@ -30,6 +33,7 @@ Browsers and web applications
 * [HTML - a quick introduction](./slide/2-02-html.pdf)
 * [CSS](./slide/2-03-css.pdf)
 * [JavaScript in the Browser](./slide/2-04-browser_JS_DOM.pdf)
+* [HTML5 Forms](./slide/2-05-HTML5_forms.pdf)
 
 ## Laboratories
 
