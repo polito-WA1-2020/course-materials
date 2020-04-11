@@ -24,16 +24,27 @@ Javascript
 * [JavaScript exercises](./slide/1-03-javascript-exercises-part1.pdf)
 * [Asynchronouos JavaScript programming](./slide/1-04-javascript-async.pdf)
 * [Functional Programming in JS](./slide/1-05-javascript-functional.pdf)
-* Prototypes, Classes and Modules
+* [Prototypes, Classes and Modules](./slide/1-06-javascript-classes.pdf)
 * [The 'this' keyword](./slide/1-07-javascript-this.pdf)
 
-Browsers and web applications
+Browsers and client-side applications
 
 * [Web Architecture](./slide/2-01-web-architecture.pdf)
 * [HTML - a quick introduction](./slide/2-02-html.pdf)
 * [CSS](./slide/2-03-css.pdf)
 * [JavaScript in the Browser](./slide/2-04-browser_JS_DOM.pdf)
 * [HTML5 Forms](./slide/2-05-HTML5_forms.pdf)
+* Fetch API
+
+Web Servers and server-side APIs
+
+* HTTP
+* Express web server
+* REST API
+* CORS
+* JWT
+
+React
 
 ## Laboratories
 
