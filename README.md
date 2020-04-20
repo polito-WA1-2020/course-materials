@@ -40,7 +40,7 @@ Web Servers and server-side APIs
 
 * [HTTP](./slide/3-01-HTTP.pdf)
 * [Express web server](./slide/3-02-Express.pdf)
-* REST API
+* [REST API](./slide/3-03-REST.pdf)
 * CORS
 * JWT
 
