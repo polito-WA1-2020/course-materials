@@ -38,8 +38,8 @@ Browsers and client-side applications
 
 Web Servers and server-side APIs
 
-* HTTP
-* Express web server
+* [HTTP](./slide/3-01-HTTP.pdf)
+* [Express web server](./slide/3-02-Express.pdf)
 * REST API
 * CORS
 * JWT
