@@ -52,3 +52,4 @@ React
 * [Lab 2: Getting Started with HTML and CSS](./labs/L02-getting-started-html-css.pdf)
 * [Lab 3: JavaScript in the Browser](./labs/L03-javascript-browser.pdf)
 * [Lab 4: More JavaScript in the Browser](./labs/L04-more-javascript-browser.pdf)
+* [Lab 5: REST with Express](./labs/L05-express.pdf)
