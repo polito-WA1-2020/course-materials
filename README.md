@@ -53,3 +53,4 @@ React
 * [Lab 3: JavaScript in the Browser](./labs/L03-javascript-browser.pdf)
 * [Lab 4: More JavaScript in the Browser](./labs/L04-more-javascript-browser.pdf)
 * [Lab 5: REST with Express](./labs/L05-express.pdf)
+* [Lab 6: Interacting with REST API](./labs/L06-fetch.pdf)
