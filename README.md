@@ -34,7 +34,7 @@ Browsers and client-side applications
 * [CSS](./slide/2-03-css.pdf)
 * [JavaScript in the Browser](./slide/2-04-browser_JS_DOM.pdf)
 * [HTML5 Forms](./slide/2-05-HTML5_forms.pdf)
-* Fetch API
+* [Fetch API](./slide/2-06-Fetch.pdf)
 
 Web Servers and server-side APIs
 
