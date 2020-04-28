@@ -46,6 +46,8 @@ Web Servers and server-side APIs
 
 React
 
+* [Introduction to React](./slide/4-01-React-intro.pdf)
+
 ## Laboratories
 
 * [Lab 1: Getting Started with Node.js](./labs/L01-getting-started-node.pdf)
