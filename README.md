@@ -47,6 +47,7 @@ Web Servers and server-side APIs
 React
 
 * [Introduction to React](./slide/4-01-React-intro.pdf)
+* [Components, Elements, JSX](./slide/4-02-Components-and-JSX.pdf)
 
 ## Laboratories
 
