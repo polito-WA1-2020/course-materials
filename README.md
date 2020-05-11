@@ -48,6 +48,8 @@ React
 
 * [Introduction to React](./slide/4-01-React-intro.pdf)
 * [Components, Elements, JSX](./slide/4-02-Components-and-JSX.pdf)
+* [Context, Life Cycle, Forms](./slide/4-03-Context-LifeCycle-Forms.pdf)
+
 
 ## Laboratories
 
