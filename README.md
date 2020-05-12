@@ -60,3 +60,4 @@ React
 * [Lab 5: REST with Express](./labs/L05-express.pdf)
 * [Lab 6: Interacting with REST API](./labs/L06-fetch.pdf)
 * [Lab 7: Getting started with React](./labs/L07-getting-started-react.pdf)
+* [Lab 8: React: State and Life Cycle](./labs/L08-react-state-life-cycle.pdf)
