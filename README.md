@@ -62,3 +62,4 @@ React
 * [Lab 6: Interacting with REST API](./labs/L06-fetch.pdf)
 * [Lab 7: Getting started with React](./labs/L07-getting-started-react.pdf)
 * [Lab 8: React: State and Life Cycle](./labs/L08-react-state-life-cycle.pdf)
+* [Lab 9: React meets REST API](./labs/L09-react-fetch.pdf)
