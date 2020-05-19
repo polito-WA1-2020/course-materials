@@ -41,7 +41,7 @@ Web Servers and server-side APIs
 * [HTTP](./slide/3-01-HTTP.pdf)
 * [Express web server](./slide/3-02-Express.pdf)
 * [REST API](./slide/3-03-REST.pdf)
-* CORS
+* [CORS](./slide/3-04-CORS.pdf)
 * JWT
 
 React
@@ -49,6 +49,7 @@ React
 * [Introduction to React](./slide/4-01-React-intro.pdf)
 * [Components, Elements, JSX](./slide/4-02-Components-and-JSX.pdf)
 * [Context, Life Cycle, Forms](./slide/4-03-Context-LifeCycle-Forms.pdf)
+* [Client-Server interactions](./slide/4-04-Client-Server-React.pdf)
 
 
 ## Laboratories
