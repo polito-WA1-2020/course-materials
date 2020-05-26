@@ -50,6 +50,8 @@ React
 * [Components, Elements, JSX](./slide/4-02-Components-and-JSX.pdf)
 * [Context, Life Cycle, Forms](./slide/4-03-Context-LifeCycle-Forms.pdf)
 * [Client-Server interactions](./slide/4-04-Client-Server-React.pdf)
+* [React Router](./slide/4-05-React-Router.pdf)
+
 
 
 ## Laboratories
