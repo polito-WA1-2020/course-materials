@@ -42,7 +42,6 @@ Web Servers and server-side APIs
 * [Express web server](./slide/3-02-Express.pdf)
 * [REST API](./slide/3-03-REST.pdf)
 * [CORS](./slide/3-04-CORS.pdf)
-* JWT
 
 React
 
@@ -51,6 +50,7 @@ React
 * [Context, Life Cycle, Forms](./slide/4-03-Context-LifeCycle-Forms.pdf)
 * [Client-Server interactions](./slide/4-04-Client-Server-React.pdf)
 * [React Router](./slide/4-05-React-Router.pdf)
+* [JWT - JSON Web Token](./slide/4-06-JWT.pdf)
 
 
 
