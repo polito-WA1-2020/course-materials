@@ -65,3 +65,4 @@ React
 * [Lab 7: Getting started with React](./labs/L07-getting-started-react.pdf)
 * [Lab 8: React: State and Life Cycle](./labs/L08-react-state-life-cycle.pdf)
 * [Lab 9: React meets REST API](./labs/L09-react-fetch.pdf)
+* [Lab 10: Task Manager App - The End](./labs/L10-login-routes.pdf)
