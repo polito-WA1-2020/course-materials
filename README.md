@@ -51,6 +51,7 @@ React
 * [Client-Server interactions](./slide/4-04-Client-Server-React.pdf)
 * [React Router](./slide/4-05-React-Router.pdf)
 * [JWT - JSON Web Token](./slide/4-06-JWT.pdf)
+* [React Hooks](./slide/4-07-Hooks.pdf)
 
 
 
