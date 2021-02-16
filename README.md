@@ -1,16 +1,12 @@
 # Web Applications I / Applicazioni Web I (2019/2020)
-# Web Applications I / Applicazioni Web I (2019/2020)
 
 
-Material for the course of Web Applications I (in English) and Applicazioni Web I (in Italian) for the Master Degree in Computer Engineering at Politecnico di Torino.
 Material for the course of Web Applications I (in English) and Applicazioni Web I (in Italian) for the Master Degree in Computer Engineering at Politecnico di Torino.
 
 
 ## Course information
-## Course information
 
 
-Detailed information about the course is available in the dedicated web pages.
 Detailed information about the course is available in the dedicated web pages.
 
 | Resource | Web Applications I | Applicazioni Web I |
